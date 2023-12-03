@@ -2,4 +2,4 @@
 
 ### FP Earth-Core
 
-Greetings fellow CG20231c !, we are Earth-Core!
+Greetings fellow CG20231c ! we are Earth-Core!
