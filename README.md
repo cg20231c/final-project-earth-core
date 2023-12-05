@@ -24,7 +24,11 @@ Features:
 - Slide, grapple, climb, and swing with precision, utilizing the full range of your chosen controls for a dynamic and exhilarating experience.
 - Enjoy a smooth and immersive traversal whether you're using a joystick or traditional controls.
 ### Animation and Sound:
-- Each movement is accompanied by meticulously crafted animations, enhancing the sense of realism
+- Each movement is accompanied by meticulously crafted animations, enhancing the sense of realism. Where each movement have state where it will we play when it trigger from input player (it already set in [animatorStateController.cs](character/Canimation/animatorStateController.cs)), this is how state connect each other so it can be play with trantition each move.
+![image](https://github.com/cg20231c/final-project-earth-core/assets/116022017/b4eb47b4-587e-4dc6-8958-ae5680a26d4a)
+to have that animation and character we can use asset from https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack
+Visualization Animation:
+<img width="1080" src="Image Readme/animation_visual.gif" />
 - Sound effects provide auditory feedback for every action, creating a multisensory gaming experience tailored to your control preferences.
 ### Day and Night Cycle:
 - Experience a living world with a seamless day and night cycle, influencing gameplay conditions.
