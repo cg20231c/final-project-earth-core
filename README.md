@@ -3,6 +3,8 @@
 # FP Earth-Core
 [![Alt text](https://github.com/cg20231c/final-project-earth-core/assets/114988957/5d857c46-6043-4983-bca1-895ed6608364)](https://youtu.be/FHpxUJXPSa4)
 Gameplay: https://youtu.be/FHpxUJXPSa4
+Buildin Apps: https://drive.google.com/file/d/1qYHppwvXmzopRmkIJYduB6gfjSOs1mgo/view?usp=sharing
+Unity File: https://drive.google.com/file/d/1kYknD4xB3suC8xtGJAnsvWcF4JSkP_p6/view?usp=sharing
 
 Greetings fellow CG20231c ! we are Earth-Core!  
 Team members:
@@ -37,9 +39,10 @@ Mr.GRAFKOM offers a simple yet engaging experience, giving players the freedom t
 
 ## Implementation
 ### Animation and Sound
-Each movement have state where it will we play when it trigger from input player (it already set in [animatorStateController.cs](character/Canimation/animatorStateController.cs)), this is how state connect each other so it can be play with trantition each move.
+Each movement have state where it will we play when it trigger from input player (it already set in [animatorStateController.cs](character/Canimation/animatorStateController.cs)). This animation implementation that implementation not the smoothest one (I mean the best one), so you can search on Google that implement more than I has implemented because there are so many way to implement animation in character, and what I'm implementing is the one from the other. This is the graph for state animation characters that connect each other so it can be played with transition each move and the idle animation is the default one so every animation that has already played will back to the idle animation.
 ![image](https://github.com/cg20231c/final-project-earth-core/assets/116022017/b4eb47b4-587e-4dc6-8958-ae5680a26d4a)
-to have that animation and character we can use asset from https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack
+to get that animation and character we can use asset from https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack and dont forget set like this setting if you want to download it
+
 Visualization Animation:
 <img width="1080" src="Image Readme/animation_visual.gif" />  
 ### Movement 
