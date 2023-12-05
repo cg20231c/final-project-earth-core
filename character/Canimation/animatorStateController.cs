@@ -128,18 +128,18 @@ public class animatorStateController : MonoBehaviour
         }
 
         // crounch
-        if(!isCrounch_idle && crounchPressed){
+        if(!isCrounch_idle && crounchPressed && !isCrounch){
             animator.SetBool(isCrounchHash_idle, true);
             animator.SetBool(isCrounchHash, false);
         }
-        if(isCrounch_idle && !crounchPressed){
+        if(isCrounch_idle && !crounchPressed && isCrounch){
             animator.SetBool(isCrounchHash_idle, false);
         }
-        if((!isCrounch && (isWalkingForward && crounchPressed)) || (!isCrounch && (isRunning && crounchPressed))){
+        if((!isCrounch && (forwardPressed  && crounchPressed))){
             animator.SetBool(isCrounchHash, true);
             animator.SetBool(isCrounchHash_idle, false);
         }
-        if((isWalkingForward && (!forwardPressed || !crounchPressed)) || (isRunning && (!forwardPressed || !runPressed || !crounchPressed))){
+        if((isCrounch && (!forwardPressed || !crounchPressed))){
             animator.SetBool(isCrounchHash, false);
         }
 
