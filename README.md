@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3tAls-C)
 
 ### FP Earth-Core
+[![Alt text](https://github.com/cg20231c/final-project-earth-core/assets/114988957/5d857c46-6043-4983-bca1-895ed6608364)](https://youtu.be/FHpxUJXPSa4)
+Gameplay: https://youtu.be/FHpxUJXPSa4
 
 Greetings fellow CG20231c ! we are Earth-Core!  
 Team members:
@@ -9,7 +11,7 @@ Team members:
 - 5025211084 - Arfi Raushani Fikra  
 - 5025211100 - Muhammad Zhafran  
 
-Embark on a captivating journey in [Game Title], an immersive first-person movement game developed in Unity. This dynamic experience goes beyond traditional movement games, introducing a visually stunning world with a living day and night cycle, offering players a unique and evolving adventure. What sets [Game Title] apart is its support for both traditional mouse and keyboard controls as well as joystick compatibility, providing players with the freedom to choose their preferred input method.  
+Embark on a captivating journey in Mr.GRAFKOM, an immersive first-person movement game developed in Unity. This dynamic experience goes beyond traditional movement games, introducing a visually stunning world with a living day and night cycle, offering players a unique and evolving adventure. What sets Mr.GRAFKOM apart is its support for both traditional mouse and keyboard controls as well as joystick compatibility, providing players with the freedom to choose their preferred input method.  
   
 Features:
 ### Multiple Control Options:
@@ -31,4 +33,4 @@ Features:
 ### Visually Pleasing Environments:
 - Explore breathtaking landscapes with meticulous attention to detail.  
 
-[Game Title] offers a simple yet engaging experience, giving players the freedom to enjoy the game their way.
+Mr.GRAFKOM offers a simple yet engaging experience, giving players the freedom to enjoy the game their way.
