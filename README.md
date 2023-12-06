@@ -3,7 +3,9 @@
 # FP Earth-Core
 [![Alt text](https://github.com/cg20231c/final-project-earth-core/assets/114988957/5d857c46-6043-4983-bca1-895ed6608364)](https://youtu.be/FHpxUJXPSa4)
 Gameplay: https://youtu.be/FHpxUJXPSa4
+
 Buildin Apps: https://drive.google.com/file/d/1qYHppwvXmzopRmkIJYduB6gfjSOs1mgo/view?usp=sharing
+
 Unity File: https://drive.google.com/file/d/1kYknD4xB3suC8xtGJAnsvWcF4JSkP_p6/view?usp=sharing
 
 Greetings fellow CG20231c ! we are Earth-Core!  
